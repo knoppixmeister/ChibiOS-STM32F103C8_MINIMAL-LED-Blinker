@@ -9,5 +9,6 @@ git submodule update --init
 make
 ```
 
-Code used: https://github.com/ChibiOS/ChibiOS/tree/master/demos/STM32/RT-STM32F103-MAPLEMINI
+Cfg and Makefile code used from: https://github.com/ChibiOS/ChibiOS/tree/master/demos/STM32/RT-STM32F103-MAPLEMINI
+
 Inspired by code: https://github.com/ddB0515/BluePill-ChibiOS
