@@ -27,11 +27,11 @@ int main(void) {
 
 	while(true) {
 		// palSetPad(GPIOC, GPIOC_LED);
-		// chThdSleepMilliseconds(1000);
+		// chThdSleepMilliseconds(500);
 
 		// palSetPad(GPIOC, 13);
 
-		// palClearPad(GPIOC, GPIOC_LED3);
+		// palClearPad(GPIOC, GPIOC_LED);
 		chThdSleepMilliseconds(1000);
 	}
 
